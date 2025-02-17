@@ -6,6 +6,7 @@ So here we are. The Mom is out Executive Director of Wengyrlz Code who loves the
 
 Initial Repo:
 The repo is made up of code generated from Gemini AI (1.5 Flash)
+
 Here is the prompt used to generate the code:
 I want to build a basic JavaScript game where icons hid in different locations as the player walks along a city road. I want the game to have 5 levels. Each level with have a different number of icons to find. Level 1 will have 10 has icons, level 2 has 15 icons, level 3 has 20 icons, level 4 has 25 icons, level 5 has 30 icons. The player can only go to te next level which is depicted as another street scene in the city after they collect all the icons.
 
